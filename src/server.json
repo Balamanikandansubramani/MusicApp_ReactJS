@@ -1,0 +1,85 @@
+{
+    "album_Details":[
+        {
+            "id" : 1,
+            "titleName" : "title1",
+            "albumName" : "album1",
+            "composerName" : "composer1",
+            "releasedDate" : "10/11/2000",
+            "artistName" : "artist1",
+            "thumbnailImage" : "image1"
+        },{
+            "id" : 2,
+            "titleName" : "title2",
+            "albumName" : "album2",
+            "composerName" : "composer2",
+            "releasedDate" : "10/11/2002",
+            "artistName" : "artist2",
+            "thumbnailImage" : "image2"
+        },{
+            "id" : 3,
+            "titleName" : "title3",
+            "albumName" : "album3",
+            "composerName" : "composer3",
+            "releasedDate" : "10/11/2003",
+            "artistName" : "artist3",
+            "thumbnailImage" : "image3"
+        },{
+            "id" : 4,
+            "titleName" : "title4",
+            "albumName" : "album4",
+            "composerName" : "composer4",
+            "releasedDate" : "10/11/2004",
+            "artistName" : "artist4",
+            "thumbnailImage" : "image4"
+        },{
+            "id" : 5,
+            "titleName" : "title5",
+            "albumName" : "album5",
+            "composerName" : "composer5",
+            "releasedDate" : "10/11/2005",
+            "artistName" : "artist5",
+            "thumbnailImage" : "image5"
+        },{
+            "id" : 6,
+            "titleName" : "title6",
+            "albumName" : "album6",
+            "composerName" : "composer6",
+            "releasedDate" : "10/11/2006",
+            "artistName" : "artist6",
+            "thumbnailImage" : "image6"
+        },{
+            "id" : 7,
+            "titleName" : "title7",
+            "albumName" : "album7",
+            "composerName" : "composer7",
+            "releasedDate" : "10/11/2007",
+            "artistName" : "artist7",
+            "thumbnailImage" : "image7"
+        },{
+            "id" : 8,
+            "titleName" : "title8",
+            "albumName" : "album8",
+            "composerName" : "composer8",
+            "releasedDate" : "10/11/2008",
+            "artistName" : "artist8",
+            "thumbnailImage" : "image8"
+        },{
+            "id" : 9,
+            "titleName" : "title9",
+            "albumName" : "album9",
+            "composerName" : "composer9",
+            "releasedDate" : "10/11/2009",
+            "artistName" : "artist9",
+            "thumbnailImage" : "image9"
+        },{
+            "id" : 10,
+            "titleName" : "title10",
+            "albumName" : "album10",
+            "composerName" : "composer10",
+            "releasedDate" : "10/11/2010",
+            "artistName" : "artist10",
+            "thumbnailImage" : "image10"
+        }
+    ]
+}

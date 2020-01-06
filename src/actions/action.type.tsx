@@ -1,0 +1,2 @@
+export const GET_ALBUM_SUCCESS = "GET_ALBUM_SUCCESS";
+export type GET_ALBUM_SUCCESS = typeof GET_ALBUM_SUCCESS;
